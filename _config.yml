@@ -1,7 +1,7 @@
 # _config.yml
 title: Annika Brown
 description: Personal website of Annika Brown
-theme: jekyll-theme-slate
+theme: minima
 
 
 # Navigation links for About, Research, CV
