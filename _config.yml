@@ -1,0 +1,13 @@
+title: Annika Brown
+description: Personal website of Annika Brown
+theme: minima
+
+# Navigation links for About, Research, CV
+header_pages:
+  - about.md
+  - research.md
+  - cv.md
+
+author:
+  name: Annika Brown
+  email: youremail@example.com
