@@ -9,3 +9,8 @@ I’m Annika, a PhD student in Economics at Utrecht University. My doctoral work
 I became interested in these topics through volunteering and interning during high school and my bachelors in the US. I began working with NGOs and community programs at age 15, doing on-the-ground work with children, families, and marginalized groups such as refugees and homeless individuals. Now I combine that practical experience with research, studying the issues I encountered first-hand and seeking evidence-based solutions. I’m really interested in the intersection of practice and research, and finding ways to translate real-world experience into actionable insights.  
 
 Outside of work and research, I love being outdoors. I enjoy camping, hiking, kayaking, and cycling. I also love to go on adventure trips, whether that is backpacking in Alaska, or horseback riding in Kyrgyzstan.
+
+<div style="display: flex; gap: 10px;">
+  <img src="assets/pic.jpg" alt="Picture 1" width="300">
+  <img src="assets/alaska.jpeg" alt="Alaska" width="300">
+</div>
