@@ -10,7 +10,8 @@ I became interested in these topics through volunteering and interning during hi
 
 Outside of work and research, I love being outdoors. I enjoy camping, hiking, kayaking, and cycling. I also love to go on adventure trips, whether that is backpacking in Alaska, or horseback riding in Kyrgyzstan.
 
-<div style="display: flex; gap: 10px;">
-  <img src="assets/pic.jpg" alt="Picture 1" width="300">
-  <img src="assets/alaska.jpeg" alt="Alaska" width="300">
+<div class="photo-row">
+  <img src="{{ '/assets/pic.jpg' | relative_url }}" alt="Picture 1" width="300">
+  <img src="{{ '/assets/alaska.jpeg' | relative_url }}" alt="Alaska" width="300">
 </div>
+
