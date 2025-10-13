@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="{{ '/assets/pic.jpeg' | relative_url }}" alt="Pic" class="float-photo" width="300">
 
 I’m Annika, a PhD student in Economics at Utrecht University. My doctoral work centers on early childhood education: access, program design, and impacts in contexts where resources or opportunities are uneven. I look at how early conditions shape later outcomes in school and the labor market, with an emphasis on what works, for whom, and why. I also have a strong interest in migration and refugee integration.
 
@@ -12,7 +11,6 @@ I became interested in these topics through volunteering and interning during hi
 Outside of work and research, I love being outdoors. I enjoy camping, hiking, kayaking, and cycling. I also love to go on adventure trips, whether that is backpacking in Alaska, or horseback riding in Kyrgyzstan.
 
 <div class="photo-row">
-  <img src="{{ '/assets/pic.jpg' | relative_url }}" alt="Picture 1" width="300">
-  <img src="{{ '/assets/alaska.jpeg' | relative_url }}" alt="Alaska" width="300">
+  <img src="{{ '/assets/pic.jpg' | relative_url }}" alt="Picture 1" width="600">
 </div>
 
