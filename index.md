@@ -3,11 +3,11 @@ layout: home
 title: Home
 ---
 
-# Welcome 👋
+# Welcome
 
-Hi! I’m **Annika Brown**, and this is my personal website.
+Hi! I’m **Annika Brown**, a current Economics PhD student in Utrecht, the Netherlands.
 
-I’m passionate about design, research, and technology — this space is where I share my work and ideas.
+I’m passionate about equal access to opportunities, and focus my research arounf early childhood education.
 
 Check out:
 - [About Me](about)
