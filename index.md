@@ -3,11 +3,7 @@ layout: home
 title: Home
 ---
 
-# Welcome
-
-Hi! I’m **Annika Brown**, a current Economics PhD student in Utrecht, the Netherlands.
-
-I’m passionate about equal access to opportunities, and focus my research around early childhood education.
+Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Netherlands.
 
 Check out:
 - [About Me](about)
