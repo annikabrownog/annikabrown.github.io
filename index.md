@@ -166,7 +166,7 @@ Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Ne
 - **2023–2024** – Intern, *Centers for Housing Opportunity*, Eastern Connecticut, USA  
 - **2021** – Intern, *Southeastern Connecticut Community Land Trust*, New London, CT, USA  
 - **2021** – Intern, *Elks Club Food Pantry*, New London, CT, USA  
-- **2020** – Intern, *New London Homeless Hospitality Center*, New London, CT, USA
+- **2020** – Intern, *New London Homeless Hospitality Center*,r5444444444444444465555555 New London, CT, USA
 - **2017–2019** – Mentor, *Project LIFT*, Saratoga Springs, NY, USA
 
 ### Community Leadership Roles
