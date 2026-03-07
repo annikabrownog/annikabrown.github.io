@@ -6,6 +6,8 @@ permalink: /research/
 
 # Ongoing Work
 
+- **Childcare Subsidies, Pre-Primary School Education, and Academic Outcomes in the Netherlands**, Utrecht University
+
 - **How Psychometric Models Shape Impact and Equity in Early Education RCTs**, Utrecht University
   Investigating how measurement models influence the assessment of program impact and equity in an early childhood education RCT in Bulgaria.
 
