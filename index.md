@@ -77,7 +77,7 @@ Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Ne
     <br><br>
     I became interested in these topics through volunteering and interning during high school and my bachelors in the US. I began working with NGOs and community programs at age 15, doing on-the-ground work with children, families, and marginalized groups such as refugees and homeless individuals. Now I combine that practical experience with research, studying the issues I encountered first-hand and seeking solutions that are developed in collaboration with those in need. I’m interested in the intersection of practice and research, and finding ways to apply real-world experiences.  
     <br><br>
-    Outside of work and research, I love being outdoors. I enjoy camping, hiking, kayaking, and cycling. I also love to go on adventure trips, whether that is backpacking in Alaska, or horseback riding in Kyrgyzstan.
+    Outside of work and research, I love being outdoors. I enjoy camping, hiking, kayaking, and cycling. I also love to go on adventure trips, whether that is backpacking in Alaska or horseback riding in Kyrgyzstan.
 </div>
   <div class="about-image">
     <img src="{{ '/assets/pic.jpg' | relative_url }}" alt="Annika Brown" width="300" style="margin-bottom: 15px;">
