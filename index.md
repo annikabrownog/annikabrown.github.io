@@ -2,36 +2,94 @@
 layout: home
 ---
 
+<style>
+  /* Modern Styling - Doesn't change your words, just the "frame" */
+  body { 
+    line-height: 1.6; 
+    color: #333; 
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  
+  /* Sticky Navigation Bar */
+  .nav-bar {
+    position: -webkit-sticky; 
+    position: sticky; 
+    top: 0; 
+    background-color: rgba(255, 255, 255, 0.95); 
+    backdrop-filter: blur(10px);
+    padding: 15px 0; 
+    border-bottom: 1px solid #eaeaea; 
+    z-index: 1000;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .nav-bar a {
+    margin: 0 15px; 
+    text-decoration: none; 
+    color: #007bff; 
+    font-weight: 600;
+  }
+
+  /* Section Spacing */
+  h1[id] { scroll-margin-top: 80px; margin-top: 60px; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; }
+  h2 { margin-top: 40px; color: #444; }
+
+  /* Layout for About Section */
+  .about-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    align-items: flex-start;
+  }
+  .about-text { flex: 2; min-width: 300px; }
+  .about-image { flex: 1; min-width: 250px; text-align: center; }
+  .about-image img { 
+    border-radius: 12px; 
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1); 
+  }
+
+  /* Back to Top Link */
+  .back-to-top {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #888;
+    text-decoration: none;
+  }
+</style>
+
+<div class="nav-bar">
+    <a href="#about">About Me</a>
+    <a href="#research">Research</a>
+    <a href="#cv">My CV</a>
+</div>
+
 Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Netherlands. I was born in Pennsylvania, grew up in upstate New York, went to college in Connecticut, and now live in the Netherlands. 
 
-<div style="position: -webkit-sticky; position: sticky; top: 0; background-color: white; padding: 10px 0; border-bottom: 1px solid #eee; z-index: 1000;">
-  <div style="max-width: 800px; margin: 0 auto; text-align: center; font-weight: bold;">
-    <a href="#about" style="margin: 0 15px; text-decoration: none; color: #007bff;">About Me</a>
-    <a href="#research" style="margin: 0 15px; text-decoration: none; color: #007bff;">Research</a>
-    <a href="#cv" style="margin: 0 15px; text-decoration: none; color: #007bff;">My CV</a>
-  </div>
-</div>
 ---
 
 <a name="about"></a>
-# About Me
+<h1 id="about">About Me</h1>
 
-I’m Annika, a PhD student in Economics at Utrecht University. My doctoral work centers on early childhood education: access, program design, and impacts in contexts where resources or opportunities are uneven. I look at how early conditions shape later outcomes in school and the labor market, with an emphasis on what works, for whom, and why. I also have a strong interest in migration and refugee integration.
-
-I became interested in these topics through volunteering and interning during high school and my bachelors in the US. I began working with NGOs and community programs at age 15, doing on-the-ground work with children, families, and marginalized groups such as refugees and homeless individuals. Now I combine that practical experience with research, studying the issues I encountered first-hand and seeking solutions that are developed in collaboration with those in need. I’m interested in the intersection of practice and research, and finding ways to apply real-world experiences.  
-
-Outside of work and research, I love being outdoors. I enjoy camping, hiking, kayaking, and cycling. I also love to go on adventure trips, whether that is backpacking in Alaska, or horseback riding in Kyrgyzstan.
-
-<div style="text-align: center;">
-  <img src="{{ '/assets/pic.jpg' | relative_url }}" alt="Picture 1" width="300">
+<div class="about-container">
+  <div class="about-text">
+    I’m Annika, a PhD student in Economics at Utrecht University. My doctoral work centers on early childhood education: access, program design, and impacts in contexts where resources or opportunities are uneven. I look at how early conditions shape later outcomes in school and the labor market, with an emphasis on what works, for whom, and why. I also have a strong interest in migration and refugee integration.
+    <br><br>
+    I became interested in these topics through volunteering and interning during high school and my bachelors in the US. I began working with NGOs and community programs at age 15, doing on-the-ground work with children, families, and marginalized groups such as refugees and homeless individuals. Now I combine that practical experience with research, studying the issues I encountered first-hand and seeking solutions that are developed in collaboration with those in need. I’m interested in the intersection of practice and research, and finding ways to apply real-world experiences.  
+    <br><br>
+    Outside of work and research, I love being outdoors. I enjoy camping, hiking, kayaking, and cycling. I also love to go on adventure trips, whether that is backpacking in Alaska, or horseback riding in Kyrgyzstan.
+  </div>
+  <div class="about-image">
+    <img src="{{ '/assets/pic.jpg' | relative_url }}" alt="Annika Brown" width="300">
+  </div>
 </div>
 
-[↑ Back to Top](#)
+<a href="#" class="back-to-top">↑ Back to Top</a>
 
 ---
 
 <a name="research"></a>
-# Research
+<h1 id="research">Research</h1>
 
 ## Ongoing Work
 
@@ -61,12 +119,12 @@ Outside of work and research, I love being outdoors. I enjoy camping, hiking, ka
   
   Assisted in data collection on mobile money usage and its effects on financial inclusion for low-income communities.
 
-[↑ Back to Top](#)
+<a href="#" class="back-to-top">↑ Back to Top</a>
 
 ---
 
 <a name="cv"></a>
-# Curriculum Vitae
+<h1 id="cv">Curriculum Vitae</h1>
 
 You can download my CV:  
 [Download PDF](assets/Annika_Brown_CV.pdf)
@@ -121,4 +179,4 @@ You can download my CV:
 - **2022–2023** – Office Assistant, *Human Development Department*, Connecticut College, USA
 - **2021** – Fellow, *PPIA Public Service Weekend*, Carnegie Mellon University, PA, USA  
 
-[↑ Back to Top](#)
+<a href="#" class="back-to-top">↑ Back to Top</a>
