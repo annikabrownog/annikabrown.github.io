@@ -1,11 +1,8 @@
 ---
 layout: home
-title: Home
 ---
 
-# Annika Brown
-
-Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Netherlands.
+Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Netherlands. I was born in Pennsylvania, grew up in upstate New York, went to college in Connecticut, and now live in the Netherlands. 
 
 <div style="position: -webkit-sticky; position: sticky; top: 0; background-color: white; padding: 10px 0; border-bottom: 1px solid #eee; z-index: 1000;">
   <div style="max-width: 800px; margin: 0 auto; text-align: center; font-weight: bold;">
