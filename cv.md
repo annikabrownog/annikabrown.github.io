@@ -59,6 +59,6 @@ permalink: /cv/
 # Curriculum Vitae
 
 You can download my CV:  
-[Download PDF](assets/AnnikaBrown_CV.pdf)
+[Download PDF](assets/Annika_Brown_CV.pdf)
 
 ---
