@@ -7,8 +7,13 @@ title: Home
 
 Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Netherlands.
 
-[About Me](#about) | [Research](#research) | [My CV](#cv)
-
+<div style="position: -webkit-sticky; position: sticky; top: 0; background-color: white; padding: 10px 0; border-bottom: 1px solid #eee; z-index: 1000;">
+  <div style="max-width: 800px; margin: 0 auto; text-align: center; font-weight: bold;">
+    <a href="#about" style="margin: 0 15px; text-decoration: none; color: #007bff;">About Me</a>
+    <a href="#research" style="margin: 0 15px; text-decoration: none; color: #007bff;">Research</a>
+    <a href="#cv" style="margin: 0 15px; text-decoration: none; color: #007bff;">My CV</a>
+  </div>
+</div>
 ---
 
 <a name="about"></a>
