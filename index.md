@@ -78,9 +78,12 @@ Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Ne
     I became interested in these topics through volunteering and interning during high school and my bachelors in the US. I began working with NGOs and community programs at age 15, doing on-the-ground work with children, families, and marginalized groups such as refugees and homeless individuals. Now I combine that practical experience with research, studying the issues I encountered first-hand and seeking solutions that are developed in collaboration with those in need. I’m interested in the intersection of practice and research, and finding ways to apply real-world experiences.  
     <br><br>
     Outside of work and research, I love being outdoors. I enjoy camping, hiking, kayaking, and cycling. I also love to go on adventure trips, whether that is backpacking in Alaska, or horseback riding in Kyrgyzstan.
-  </div>
+</div>
   <div class="about-image">
-    <img src="{{ '/assets/pic.jpg' | relative_url }}" alt="Annika Brown" width="300">
+    <img src="{{ '/assets/pic.jpg' | relative_url }}" alt="Annika Brown" width="300" style="margin-bottom: 15px;">
+    
+    <img src="{{ '/assets/alaska.jpeg' | relative_url }}" alt="Backpacking in Alaska" width="300" style="margin-bottom: 15px;">
+    <img src="{{ '/assets/horse.jpg' | relative_url }}" alt="Horseback riding in Kyrgyzstan" width="300">
   </div>
 </div>
 
@@ -125,9 +128,6 @@ Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Ne
 
 <a name="cv"></a>
 <h1 id="cv">Curriculum Vitae</h1>
-
-You can download my CV:  
-[Download PDF](assets/Annika_Brown_CV.pdf)
 
 ## Education
 
@@ -178,5 +178,8 @@ You can download my CV:
 - **2021–2023** – Chair, *Human Development Student Advisory Board*, Connecticut College, USA
 - **2022–2023** – Office Assistant, *Human Development Department*, Connecticut College, USA
 - **2021** – Fellow, *PPIA Public Service Weekend*, Carnegie Mellon University, PA, USA  
+
+You can download my CV:  
+[Download PDF](assets/Annika_Brown_CV.pdf)
 
 <a href="#" class="back-to-top">↑ Back to Top</a>
