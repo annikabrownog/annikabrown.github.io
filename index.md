@@ -73,13 +73,37 @@ layout: home
   }
 </style>
 
-<div class="nav-bar">
-    <a href="#about">About Me</a>
-    <a href="#research">Research</a>
-    <a href="#cv">My CV</a>
-</div>
+/* Sticky Navigation Bar - Improved */
+  .nav-bar {
+    position: sticky;
+    top: 0;
+    background-color: #ffffff; /* Solid white so text doesn't bleed through */
+    padding: 20px 0;
+    border-bottom: 2px solid #f0f0f0;
+    z-index: 1000;
+    display: flex;
+    justify-content: center; /* Centers the links horizontally */
+    gap: 40px; /* Even spacing between links */
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05); /* Soft shadow for depth */
+  }
 
-Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Netherlands. I was born in Pennsylvania, grew up in upstate New York, went to college in Connecticut, and now live in the Netherlands. 
+  .nav-bar a {
+    text-decoration: none;
+    color: #444; /* Dark grey for a professional look */
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: color 0.3s ease; /* Smooth hover effect */
+  }
+
+  .nav-bar a:hover {
+    color: #007bff; /* Colors change when you hover */
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+  }
+
+Hi! I’m **Annika**, a current Economics Ph.D. student at Utrecht University. 
+
+I was born in Pennsylvania, grew up in upstate New York, went to college in Connecticut, and now live in the Netherlands. 
 
 ---
 
