@@ -34,19 +34,34 @@ layout: home
   h1[id] { scroll-margin-top: 80px; margin-top: 60px; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; }
   h2 { margin-top: 40px; color: #444; }
 
-  /* Layout for About Section */
-  .about-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 40px;
-    align-items: flex-start;
-  }
-  .about-text { flex: 2; min-width: 300px; }
-  .about-image { flex: 1; min-width: 250px; text-align: center; }
-  .about-image img { 
-    border-radius: 12px; 
-    box-shadow: 0 10px 30px rgba(0,0,0,0.1); 
-  }
+  /* Updated Layout for About Section */
+  .about-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    align-items: flex-start; /* Keeps images at the top */
+  }
+
+  .about-text { 
+    flex: 2; 
+    min-width: 300px; 
+  }
+
+  .about-image { 
+    flex: 1; 
+    min-width: 250px; 
+    display: flex;
+    flex-direction: column; /* Stacks images vertically */
+    gap: 20px; /* Modern way to add spacing between stacked items */
+  }
+
+  .about-image img { 
+    width: 100%; /* Makes images responsive to the column width */
+    height: auto;
+    border-radius: 20px; /* Increased rounding for a modern look */
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1); 
+    display: block;
+  }
 
   /* Back to Top Link */
   .back-to-top {
@@ -79,12 +94,11 @@ Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Ne
     <br><br>
     Outside of work and research, I love being outdoors. I enjoy camping, hiking, kayaking, and cycling. I also love to go on adventure trips, whether that is backpacking in Alaska, or horseback riding in Kyrgyzstan.
 </div>
-  <div class="about-image">
-    <img src="{{ '/assets/pic.jpg' | relative_url }}" alt="Annika Brown" width="300" style="margin-bottom: 15px;">
-    
-    <img src="{{ '/assets/alaska.jpeg' | relative_url }}" alt="Backpacking in Alaska" width="300" style="margin-bottom: 15px;">
-    <img src="{{ '/assets/horse.jpg' | relative_url }}" alt="Horseback riding in Kyrgyzstan" width="300">
-  </div>
+  <div class="about-image">
+    <img src="{{ '/assets/pic.jpg' | relative_url }}" alt="Annika Brown">
+    <img src="{{ '/assets/alaska.jpeg' | relative_url }}" alt="Backpacking in Alaska">
+    <img src="{{ '/assets/horse.jpg' | relative_url }}" alt="Horseback riding in Kyrgyzstan">
+  </div>
 </div>
 
 <a href="#" class="back-to-top">↑ Back to Top</a>
