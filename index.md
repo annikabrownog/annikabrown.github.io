@@ -4,7 +4,44 @@ layout: home
 
 <style>
   /* Modern Styling - Doesn't change your words, just the "frame" */
-  body { 
+  /* 1. Center the whole page content */
+body {
+  margin: 0 auto;
+  max-width: 900px; /* Limits width so it's readable */
+  padding: 0 40px;  /* Adds 'breathing room' on the sides */
+  background-color: #fdfdfd; /* Very subtle off-white for less eye strain */
+}
+
+/* 2. Fix the Navigation Bar to span the whole screen but center the text */
+.nav-bar {
+  position: sticky;
+  top: 0;
+  width: 100vw;       /* Spans full browser width */
+  margin-left: calc(-50vw + 50%); /* Centers the full-width bar on a narrow body */
+  background-color: rgba(255, 255, 255, 0.98);
+  display: flex;
+  justify-content: center;
+  gap: 60px;          /* More space between Nav items */
+  padding: 25px 0;
+  border-bottom: 1px solid #eee;
+  z-index: 1000;
+}
+
+/* 3. Add more space between major sections */
+hr {
+  margin: 80px 0;    /* Massive spacing between "About", "Research", and "CV" */
+  border: 0;
+  border-top: 1px solid #eee;
+}
+
+/* 4. Improve text readability */
+.about-text {
+  line-height: 1.8;   /* More space between lines of text */
+  font-size: 1.1rem;
+  text-align: justify; /* Optional: makes the edges look clean like a book */
+}
+  
+  body { 
     line-height: 1.6; 
     color: #333; 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -88,13 +125,12 @@ layout: home
 
     <a href="#research">Research</a>
 
-    <a href="#cv">My CV</a>
+    <a href="#cv">Education & Experience</a>
 
 </div> 
 
-Hi! I’m **Annika**, a current Economics Ph.D. student at Utrecht University. 
-
-I was born in Pennsylvania, grew up in upstate New York, went to college in Connecticut, and now live in the Netherlands. 
+Hi! I’m **Annika**, a current first year Economics Ph.D. student at Utrecht University. 
+You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 
 ---
 
@@ -103,7 +139,7 @@ I was born in Pennsylvania, grew up in upstate New York, went to college in Conn
 
 <div class="about-container">
   <div class="about-text">
-    I’m Annika, a PhD student in Economics at Utrecht University. My doctoral work centers on early childhood education: access, program design, and impacts in contexts where resources or opportunities are uneven. I look at how early conditions shape later outcomes in school and the labor market, with an emphasis on what works, for whom, and why. I also have a strong interest in migration and refugee integration.
+    My doctoral work centers on early childhood education: access, program design, and impacts in contexts where resources or opportunities are uneven. I look at how early conditions shape later outcomes in school and the labor market, with an emphasis on what works, for whom, and why. I also have a strong interest in migration and refugee integration.
     <br><br>
     I became interested in these topics through volunteering and interning during high school and my bachelors in the US. I began working with NGOs and community programs at age 15, doing on-the-ground work with children, families, and marginalized groups such as refugees and homeless individuals. Now I combine that practical experience with research, studying the issues I encountered first-hand and seeking solutions that are developed in collaboration with those in need. I’m interested in the intersection of practice and research, and finding ways to apply real-world experiences.  
     <br><br>
@@ -156,7 +192,7 @@ I was born in Pennsylvania, grew up in upstate New York, went to college in Conn
 ---
 
 <a name="cv"></a>
-<h1 id="cv">Curriculum Vitae</h1>
+<h1 id="cv">Education & Experience</h1>
 
 ## Education
 
@@ -207,8 +243,5 @@ I was born in Pennsylvania, grew up in upstate New York, went to college in Conn
 - **2021–2023** – Chair, *Human Development Student Advisory Board*, Connecticut College, USA
 - **2022–2023** – Office Assistant, *Human Development Department*, Connecticut College, USA
 - **2021** – Fellow, *PPIA Public Service Weekend*, Carnegie Mellon University, PA, USA  
-
-You can download my CV:  
-[Download CV](assets/Annika_Brown_CV.pdf)
 
 <a href="#" class="back-to-top">↑ Back to Top</a>
