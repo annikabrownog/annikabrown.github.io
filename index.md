@@ -29,14 +29,14 @@ body {
 
 /* 3. Add more space between major sections */
 hr {
-  margin: 80px 0;    /* Massive spacing between "About", "Research", and "CV" */
+  margin: 40px 0;    /* Massive spacing between "About", "Research", and "CV" */
   border: 0;
   border-top: 1px solid #eee;
 }
 
 /* 4. Improve text readability */
 .about-text {
-  line-height: 0.8;   /* More space between lines of text */
+  line-height: 1.5;   /* More space between lines of text */
   font-size: 1.1rem;
   text-align: justify; /* Optional: makes the edges look clean like a book */
 }
