@@ -10,25 +10,34 @@ layout: home
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   }
   
-  /* Sticky Navigation Bar */
-  .nav-bar {
-    position: -webkit-sticky; 
-    position: sticky; 
-    top: 0; 
-    background-color: rgba(255, 255, 255, 0.95); 
-    backdrop-filter: blur(10px);
-    padding: 15px 0; 
-    border-bottom: 1px solid #eaeaea; 
-    z-index: 1000;
-    text-align: center;
-    margin-bottom: 40px;
-  }
-  .nav-bar a {
-    margin: 0 15px; 
-    text-decoration: none; 
-    color: #007bff; 
-    font-weight: 600;
-  }
+  
+/* Sticky Navigation Bar - Improved */
+  .nav-bar {
+    position: sticky;
+    top: 0;
+    background-color: #ffffff; /* Solid white so text doesn't bleed through */
+    padding: 20px 0;
+    border-bottom: 2px solid #f0f0f0;
+    z-index: 1000;
+    display: flex;
+    justify-content: center; /* Centers the links horizontally */
+    gap: 40px; /* Even spacing between links */
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05); /* Soft shadow for depth */
+  }
+
+  .nav-bar a {
+    text-decoration: none;
+    color: #444; /* Dark grey for a professional look */
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: color 0.3s ease; /* Smooth hover effect */
+  }
+
+  .nav-bar a:hover {
+    color: #007bff; /* Colors change when you hover */
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+  }
 
   /* Section Spacing */
   h1[id] { scroll-margin-top: 80px; margin-top: 60px; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; }
@@ -73,33 +82,15 @@ layout: home
   }
 </style>
 
-/* Sticky Navigation Bar - Improved */
-  .nav-bar {
-    position: sticky;
-    top: 0;
-    background-color: #ffffff; /* Solid white so text doesn't bleed through */
-    padding: 20px 0;
-    border-bottom: 2px solid #f0f0f0;
-    z-index: 1000;
-    display: flex;
-    justify-content: center; /* Centers the links horizontally */
-    gap: 40px; /* Even spacing between links */
-    box-shadow: 0 2px 10px rgba(0,0,0,0.05); /* Soft shadow for depth */
-  }
+ <div class="nav-bar">
 
-  .nav-bar a {
-    text-decoration: none;
-    color: #444; /* Dark grey for a professional look */
-    font-weight: 600;
-    font-size: 1.1rem;
-    transition: color 0.3s ease; /* Smooth hover effect */
-  }
+    <a href="#about">About Me</a>
 
-  .nav-bar a:hover {
-    color: #007bff; /* Colors change when you hover */
-    border-bottom: 2px solid #007bff;
-    padding-bottom: 5px;
-  }
+    <a href="#research">Research</a>
+
+    <a href="#cv">My CV</a>
+
+</div> 
 
 Hi! I’m **Annika**, a current Economics Ph.D. student at Utrecht University. 
 
