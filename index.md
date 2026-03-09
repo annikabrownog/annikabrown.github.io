@@ -129,7 +129,9 @@ hr {
 
 </div> 
 
+
 Hi! I’m **Annika**, a current first year Economics Ph.D. student at Utrecht University. 
+
 You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 
 ---
@@ -139,7 +141,7 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 
 <div class="about-container">
   <div class="about-text">
-    My doctoral work centers on early childhood education: access, program design, and impacts in contexts where resources or opportunities are uneven. I look at how early conditions shape later outcomes in school and the labor market, with an emphasis on what works, for whom, and why. I also have a strong interest in migration and refugee integration.
+    My doctoral work centers on early childhood education: access, program design, and impacts in contexts where resources or opportunities are uneven. I look at how early conditions shape later outcomes in school and the labor market, with an emphasis on what works, for whom, and why. I also have an interest in migration and refugee integration.
     <br><br>
     I became interested in these topics through volunteering and interning during high school and my bachelors in the US. I began working with NGOs and community programs at age 15, doing on-the-ground work with children, families, and marginalized groups such as refugees and homeless individuals. Now I combine that practical experience with research, studying the issues I encountered first-hand and seeking solutions that are developed in collaboration with those in need. I’m interested in the intersection of practice and research, and finding ways to apply real-world experiences.  
     <br><br>
