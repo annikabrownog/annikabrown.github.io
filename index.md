@@ -180,6 +180,6 @@ Hi! I’m **Annika Brown**, a current Economics Ph.D. student in Utrecht, the Ne
 - **2021** – Fellow, *PPIA Public Service Weekend*, Carnegie Mellon University, PA, USA  
 
 You can download my CV:  
-[Download PDF](assets/Annika_Brown_CV.pdf)
+[Download CV](assets/Annika_Brown_CV.pdf)
 
 <a href="#" class="back-to-top">↑ Back to Top</a>
