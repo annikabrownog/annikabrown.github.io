@@ -36,7 +36,7 @@ hr {
 
 /* 4. Improve text readability */
 .about-text {
-  line-height: 1.5;   /* More space between lines of text */
+  line-height: 1.8;   /* More space between lines of text */
   font-size: 1.1rem;
   text-align: justify; /* Optional: makes the edges look clean like a book */
 }
