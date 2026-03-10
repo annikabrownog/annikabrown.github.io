@@ -198,8 +198,6 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 <a name="cv"></a>
 <h1 id="cv">Education</h1>
 
-## Education
-
 - **Ph.D in Economics**, *Utrecht University*, expected 2029
 - **Research Master (M.Sc.) in Multidisciplinary Economics**, *Utrecht University*, 2025  
 - **Bachelor of Arts (B.A.) in Quantitative Economics and Econometrics, and Human Development**, *Connecticut College* (with Certificate in Community Action and Public Policy), 2023
@@ -243,8 +241,8 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 
 ### Community Leadership Roles
 - **2023–2025** – Student Assistant, *Center for Global Challenges*, Utrecht, Netherlands
-- **2021–2023** – Fellow, *Holleran Center for Community Action*, Connecticut College, USA  
- 
+- **2021–2023** – Fellow, *Holleran Center for Community Action*, Connecticut College, USA
+
 ### Academic Leadership Roles
 - **2022–2023** – Chair, *Economics Student Advisory Board*, Connecticut College, USA
 - **2021–2023** – Chair, *Human Development Student Advisory Board*, Connecticut College, USA
