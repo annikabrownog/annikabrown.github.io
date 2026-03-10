@@ -36,7 +36,7 @@ hr {
 
 /* 4. Improve text readability */
 .about-text {
-  line-height: 1.8;   /* More space between lines of text */
+  line-height: 1.7;   /* More space between lines of text */
   font-size: 1.1rem;
   text-align: justify; /* Optional: makes the edges look clean like a book */
 }
@@ -125,7 +125,9 @@ hr {
 
     <a href="#research">Research</a>
 
-    <a href="#cv">Education & Experience</a>
+    <a href="#cv">Education</a>
+
+    <a href="#experience">Teaching & Experience</a>
 
 </div> 
 
@@ -194,7 +196,7 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 ---
 
 <a name="cv"></a>
-<h1 id="cv">Education & Experience</h1>
+<h1 id="cv">Education</h1>
 
 ## Education
 
@@ -204,12 +206,15 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 
 ---
 
-## Teaching Experience
+<a name="experience"></a>
+<h1 id="experience">Teaching & Community Engagement</h1>
+
+## Teaching 
 ### University
 
+- **2024-2025** – Tutorial Instructor, *Macroeconomics*, Utrecht University, Netherlands  
 - **2024** – Tutorial Instructor, *Microeconomics, Welfare & Institutions*, Utrecht University, Netherlands  
 - **2024** – Tutorial Instructor, *Intermediate Microeconomics, Games and Behaviour*, Utrecht University, Netherlands  
-- **2024–2025** – Tutorial Instructor, *Macroeconomics*, Utrecht University, Netherlands  
 - **2023** – Teaching Assistant, *Financial Literacy for Life*, Connecticut College, USA
 
 ### Schools & Community
@@ -222,7 +227,7 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 
 ---
 
-## Community Engagement Experience
+## Community Engagement 
 
 ### Migration and Refugees
 - **2023** – Participant, *United States Department of Education: Refugees & Migration Seminar*, Amman, Jordan  
