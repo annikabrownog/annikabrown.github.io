@@ -168,28 +168,23 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 - **Childcare Subsidies, Pre-Primary School Education, and Academic Outcomes in the Netherlands**, Utrecht University
 
 - **How Psychometric Models Shape Impact and Equity in Early Education RCTs**, Utrecht University
-  Investigating how measurement models influence the assessment of program impact and equity in an early childhood education RCT in Bulgaria.
 
-- **Are Sanctions Discriminatory?** (in collaboration with Prof. Purba Mukerji, Connecticut College)  
-  Studying whether economic or legal sanctions disproportionately negatively impact low- and middle-income countries.
+- **Are Sanctions Discriminatory?** (in collaboration with Prof. Purba Mukerji, Connecticut College)
+Assessing whether economic or legal sanctions disproportionately negatively impact low- and middle-income countries.
 
 ## Data Collection
 
 - **Land Use Decisions in Connecticut** (in collaboration with Kiersten Posey)
-  
-  Conducted data collection on over 500 land use decision makers (i.e. zoning board members) to understand patterns and representation in Connecticut. Final report published here: [The Room at the Table Report](https://cho.thehousingcollective.org/impact/participation-local-control-land-use-connecticut).
+Conducted data collection on over 500 land use decision makers (i.e. zoning board members) to understand patterns and representation in Connecticut. Final report published here: [The Room at the Table Report](https://cho.thehousingcollective.org/impact/participation-local-control-land-use-connecticut).
 
 - **Ukrainian and Afghan Refugees in Denmark, Sweden, and Iceland’s Labor Markets**, Connecticut College, Honors Thesis
-
-  Conducted a small-scale RCT to examine labor market outcomes and integration policies for refugees across Nordic countries.
+Conducted a small-scale RCT to examine labor market outcomes and integration policies for refugees across Nordic countries.
 
 - **Empathy in Toddlers: A Cross-Cultural Comparison of Prosocial Actions**, Aarhus University (DK) & Connecticut College (USA), Independent Study
-  
-  Observed and analyzed prosocial behaviors in toddlers across different cultural contexts, with a focus on socioeconomic status of the children.
+Observed and analyzed prosocial behaviors in toddlers across different cultural contexts, with a focus on socioeconomic status of the children.
 
 - **Financial Inclusion of the Underprivileged: Mobile Money** (as a RA with Prof. Purba Mukerji, Connecticut College)
-  
-  Assisted in data collection on mobile money usage and its effects on financial inclusion for low-income communities.
+Assisted in data collection on mobile money usage and its effects on financial inclusion for low-income communities.
 
 <a href="#" class="back-to-top">↑ Back to Top</a>
 
@@ -200,7 +195,7 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 
 - **Ph.D in Economics**, *Utrecht University*, expected 2029
 - **Research Master (M.Sc.) in Multidisciplinary Economics**, *Utrecht University*, 2025  
-- **Bachelor of Arts (B.A.) in Quantitative Economics and Econometrics, and Human Development**, *Connecticut College* (with Certificate in Community Action and Public Policy), 2023
+- **Bachelor of Arts (B.A.) in Quantitative Economics & Econometrics, and Human Development**, *Connecticut College* (with Certificate in Community Action and Public Policy), 2023
 
 ---
 
@@ -228,7 +223,7 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 ## Community Engagement 
 
 ### Migration and Refugees
-- **2023** – Participant, *United States Department of Education: Refugees & Migration Seminar*, Amman, Jordan  
+- **2023** – Participant, *United States Dept. of Education: Refugees & Migration Seminar*, Amman, Jordan  
 - **2022** – Intern, *Icelandic Human Rights Centre*, Reykjavik, Iceland  
 - **2022** – Volunteer, *Danish Refugee Council*, Copenhagen, Denmark  
 
