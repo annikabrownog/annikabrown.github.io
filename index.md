@@ -164,10 +164,13 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 <h1 id="research">Research</h1>
 
 ## Ongoing Work
+\section{Ongoing Research}
 
-- **Childcare Subsidies, Pre-Primary School Education, and Academic Outcomes in the Netherlands**, Utrecht University
+- **Free Preschool and Negative Learning Outcomes? New peers and learning disruption in Bulgaria**, Utrecht University
+  
+- **Does childcare improve educational outcomes? Evidence from the Netherlands**, Utrecht University
 
-- **How Psychometric Models Shape Impact and Equity in Early Education RCTs**, Utrecht University
+- **Constructed Outcomes: Measurement models as identification assumptions**, Utrecht University
 
 - **Are Sanctions Discriminatory?** (in collaboration with Prof. Purba Mukerji, Connecticut College)
 
