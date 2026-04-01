@@ -164,7 +164,6 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 <h1 id="research">Research</h1>
 
 ## Ongoing Work
-\section{Ongoing Research}
 
 - **Free Preschool and Negative Learning Outcomes? New peers and learning disruption in Bulgaria**, Utrecht University
   
