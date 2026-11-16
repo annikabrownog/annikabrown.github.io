@@ -165,13 +165,13 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 
 ## Ongoing Work
 
-- **Sharing the Classroom: Spillovers of a Kindergarten Expansion on Children Already Enrolled**, Utrecht University
+- **Sharing the Classroom: Spillovers of a Kindergarten Expansion on Children Already Enrolled**
   
-- **USAID Cuts and Child Development in Uganda**, Utrecht University
+- **USAID Cuts and Child Development in Uganda**
 
-- **Does childcare improve educational outcomes? Evidence from the Netherlands** (with Sönke Matthewes and Thomas van Huizen), Utrecht University
+- **Does childcare improve educational outcomes? Evidence from the Netherlands** (with Sönke Matthewes and Thomas van Huizen)
 
-- **Constructed Outcomes: Measurement models as identification assumptions**, Utrecht University
+- **Constructed Outcomes: Measurement models as identification assumptions**
 
 ## Previous Research
 
