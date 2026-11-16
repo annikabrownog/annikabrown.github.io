@@ -266,11 +266,9 @@ Assisted in data collection on mobile money usage and its effects on financial i
 - **2020** – Intern, *New London Homeless Hospitality Center*, New London, CT, USA
 - **2017–2019** – Mentor, *Project LIFT*, Saratoga Springs, NY, USA
 
-### Community Leadership Roles
+### Academic Leadership Roles
 - **2025–2027** – PhD Representative, *Utrecht School of Economics*, Utrecht, Netherlands
 - **2023–2025** – Student Assistant, *Center for Global Challenges*, Utrecht, Netherlands
-
-### Academic Leadership Roles
 - **2022–2023** – Chair, *Economics Student Advisory Board*, Connecticut College, USA
 - **2021–2023** – Chair, *Human Development Student Advisory Board*, Connecticut College, USA
 - **2022–2023** – Office Assistant, *Human Development Department*, Connecticut College, USA
