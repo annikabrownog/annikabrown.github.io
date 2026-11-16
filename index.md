@@ -3,8 +3,8 @@ layout: home
 ---
 
 <style>
-  /* Modern Styling - Doesn't change your words, just the "frame" */
-  /* 1. Center the whole page content */
+  /* Modern Styling - Doesn't change your words, just the "frame" */
+  /* 1. Center the whole page content */
 body {
   margin: 0 auto;
   max-width: 900px; /* Limits width so it's readable */
@@ -40,14 +40,14 @@ hr {
   font-size: 1.1rem;
   text-align: justify; /* Optional: makes the edges look clean like a book */
 }
+   
+  body { 
+    line-height: 1.6; 
+    color: #333; 
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
   
-  body { 
-    line-height: 1.6; 
-    color: #333; 
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  }
-  
-  
+  
 /* Sticky Navigation Bar - Improved */
   .nav-bar {
     position: sticky;
@@ -76,9 +76,9 @@ hr {
     padding-bottom: 5px;
   }
 
-  /* Section Spacing */
-  h1[id] { scroll-margin-top: 80px; margin-top: 60px; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; }
-  h2 { margin-top: 40px; color: #444; }
+  /* Section Spacing */
+  h1[id] { scroll-margin-top: 80px; margin-top: 60px; border-bottom: 2px solid #f0f0f0; padding-bottom: 10px; }
+  h2 { margin-top: 40px; color: #444; }
 
   /* Updated Layout for About Section */
   .about-container {
@@ -109,14 +109,14 @@ hr {
     display: block;
   }
 
-  /* Back to Top Link */
-  .back-to-top {
-    display: inline-block;
-    margin-top: 20px;
-    font-size: 0.9rem;
-    color: #888;
-    text-decoration: none;
-  }
+  /* Back to Top Link */
+  .back-to-top {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #888;
+    text-decoration: none;
+  }
 </style>
 
  <div class="nav-bar">
@@ -132,7 +132,7 @@ hr {
 </div> 
 
 
-Hi! I’m **Annika**, a current first year Economics Ph.D. student at Utrecht University. 
+Hi! I'm **Annika**, a current first year Economics Ph.D. student at Utrecht University. 
 
 You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 
@@ -142,12 +142,12 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 <h1 id="about">About Me</h1>
 
 <div class="about-container">
-  <div class="about-text">
-    My doctoral work centers on early childhood education: access, program design, and impacts in contexts where resources or opportunities are uneven. I look at how early conditions shape later outcomes in school and the labor market, with an emphasis on what works, for whom, and why. I also have an interest in migration and refugee integration.
-    <br><br>
-    I became interested in these topics through volunteering and interning during high school and my bachelors in the US. I began working with NGOs and community programs at age 15, doing on-the-ground work with children, families, and marginalized groups such as refugees and homeless individuals. Now I combine that practical experience with research, studying the issues I encountered first-hand and seeking solutions that are developed in collaboration with those in need. I’m interested in the intersection of practice and research, and finding ways to apply real-world experiences.  
-    <br><br>
-    Outside of work and research, I love being outdoors. You will find me camping, hiking, kayaking, trekking, uphill skiing, or on a horse.
+  <div class="about-text">
+    My doctoral work centers on early childhood education: access, program design, and impacts in contexts where resources or opportunities are uneven. I look at how early conditions shape later outcomes in school and the labor market, with an emphasis on what works, for whom, and why. I also have an interest in migration and refugee integration.
+    <br><br>
+    I became interested in these topics through volunteering and interning during high school and my bachelors in the US. I began working with NGOs and community programs at age 15, doing on-the-ground work with children, families, and marginalized groups such as refugees and homeless individuals. Now I combine that practical experience with research, studying the issues I encountered first-hand and seeking solutions that are developed in collaboration with those in need. I'm interested in the intersection of practice and research, and finding ways to apply real-world experiences.  
+    <br><br>
+    Outside of work and research, I love being outdoors. You will find me camping, hiking, kayaking, trekking, uphill skiing, or on a horse.
 </div>
   <div class="about-image">
     <img src="{{ '/assets/pic.jpg' | relative_url }}" alt="Annika Brown">
@@ -165,31 +165,33 @@ You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 
 ## Ongoing Work
 
-- **Free Preschool and Negative Learning Outcomes? New peers and learning disruption in Bulgaria**, Utrecht University
+- **Sharing the Classroom: Spillovers of a Kindergarten Expansion on Children Already Enrolled**, Utrecht University
   
-- **Does childcare improve educational outcomes? Evidence from the Netherlands**, Utrecht University
+- **USAID Cuts and Child Development in Uganda**, Utrecht University
+
+- **Does childcare improve educational outcomes? Evidence from the Netherlands** (with Sönke Matthewes and Thomas van Huizen), Utrecht University
 
 - **Constructed Outcomes: Measurement models as identification assumptions**, Utrecht University
 
-- **Are Sanctions Discriminatory?** (in collaboration with Prof. Purba Mukerji, Connecticut College)
+## Previous Research
+
+- **Are Sanctions Discriminatory?** (2023–2024, with Purba Mukerji, Connecticut College)
 
 Assessing whether economic or legal sanctions disproportionately negatively impact low- and middle-income countries.
 
-## Data Collection
-
-- **Land Use Decisions in Connecticut** (in collaboration with Kiersten Posey)
+- **Land Use Decisions in Connecticut** (2023–2024, with Ronald Flores)
 
 Conducted data collection on over 500 land use decision makers (i.e. zoning board members) to understand patterns and representation in Connecticut. Final report published here: [The Room at the Table Report](https://cho.thehousingcollective.org/impact/participation-local-control-land-use-connecticut).
 
-- **Ukrainian and Afghan Refugees in Denmark, Sweden, and Iceland’s Labor Markets**, Connecticut College, Honors Thesis
+- **Ukrainian and Afghan Refugees in Denmark, Sweden, and Iceland's Labor Markets** (2022–2023), Connecticut College, Honors Thesis
 
 Conducted a small-scale RCT to examine labor market outcomes and integration policies for refugees across Nordic countries.
 
-- **Empathy in Toddlers: A Cross-Cultural Comparison of Prosocial Actions**, Aarhus University (DK) & Connecticut College (USA), Independent Study
+- **Empathy in Toddlers: A Cross-Cultural Comparison of Prosocial Actions** (2021–2022), Aarhus University (DK) & Connecticut College (USA), Independent Study
 
 Observed and analyzed prosocial behaviors in toddlers across different cultural contexts, with a focus on socioeconomic status of the children.
 
-- **Financial Inclusion of the Underprivileged: Mobile Money** (as a RA with Prof. Purba Mukerji, Connecticut College)
+- **Financial Inclusion of the Underprivileged: Mobile Money** (2021, as a RA with Prof. Purba Mukerji, Connecticut College)
 
 Assisted in data collection on mobile money usage and its effects on financial inclusion for low-income communities.
 
@@ -201,7 +203,8 @@ Assisted in data collection on mobile money usage and its effects on financial i
 <h1 id="cv">Education</h1>
 
 - **Ph.D in Economics**, *Utrecht University*, expected 2029
-- **Research Master (M.Sc.) in Multidisciplinary Economics**, *Utrecht University*, 2025  
+- **Research Master (M.Sc.) in Multidisciplinary Economics**, *Utrecht University*, 2025  
+  *Bright Minds Fellowship Recipient*
 - **Bachelor of Arts (B.A.) in Quantitative Economics & Econometrics, and Human Development**, *Connecticut College* (with Certificate in Community Action and Public Policy), 2023
 
 ---
@@ -212,43 +215,65 @@ Assisted in data collection on mobile money usage and its effects on financial i
 ## Teaching 
 ### University
 
-- **2024-2025** – Tutorial Instructor, *Macroeconomics*, Utrecht University, Netherlands  
-- **2024** – Tutorial Instructor, *Microeconomics, Welfare & Institutions*, Utrecht University, Netherlands  
-- **2024** – Tutorial Instructor, *Intermediate Microeconomics, Games and Behaviour*, Utrecht University, Netherlands  
+- **2026** – First Supervisor, *Economic Policy Thesis (Masters level)*, Utrecht University, Netherlands
+- **2026** – Co-Supervisor, *Applied Economics Thesis (Bachelors level)*, Utrecht University, Netherlands
+- **2024–2025** – Tutorial Instructor, *Macroeconomics*, Utrecht University, Netherlands  
+- **2024** – Tutorial Instructor, *Microeconomics, Welfare & Institutions*, Utrecht University, Netherlands  
+- **2024** – Tutorial Instructor, *Intermediate Microeconomics, Games and Behaviour*, Utrecht University, Netherlands  
 - **2023** – Teaching Assistant, *Financial Literacy for Life*, Connecticut College, USA
 
 ### Schools & Community
-- **2021** – Head Teacher, *Mathematics (Primary school)*, Unreasonable Kids College, USA  
-- **2019–2023** – Teaching Assistant, *Toddler Program (Pre-primary school)*, Connecticut College Preschool, USA  
-- **2019–2020** – Teaching Assistant, *English as a Second Language (Secondary school)*, New London, USA  
-- **2019** – Teacher, *English as a Second Language (Adult learning)*, Paper Airplanes: Education for Refugees, International  
-- **2019** – Teaching Assistant, *Mathematics (Primary school)*, Schuylerville Central Schools, USA  
+- **2021** – Head Teacher, *Mathematics (Primary school)*, Unreasonable Kids College, USA  
+- **2019–2023** – Teaching Assistant, *Toddler Program (Pre-primary school)*, Connecticut College Preschool, USA  
+- **2019–2020** – Teaching Assistant, *English as a Second Language (Secondary school)*, New London, USA  
+- **2019** – Teacher, *English as a Second Language (Adult learning)*, Paper Airplanes: Education for Refugees, International  
+- **2019** – Teaching Assistant, *Mathematics (Primary school)*, Schuylerville Central Schools, USA  
 - **2016–2018** – Teaching Assistant, *STEM (Primary school)*, Camp Invention, USA
+
+---
+
+## Conference Experience
+
+- **2026** – Dutch Development Economics PhD Workshop, Amsterdam, Netherlands
+- **2026** – ISEO Institute, Iseo, Italy
+- **2026** – KVS New Paper Series, The Hague, Netherlands
+- **2026** – Leuven Economics of Education Research, Leuven, Belgium
+- **2026** – Lisbon Economics and Statistics of Education, Lisbon, Portugal
+- **2025** – Reaching New Heights in Early Childhood Research, Utrecht, Netherlands
+- **2024, 2025** – Eastern Economic Association, Boston, MA, USA
+- **2023** – Promoting Inclusion in Economic Research, Williams College, MA, USA
+
+---
+
+## Funding
+
+- **2026** – Dynamic of Youth Early Childhood Funding, Utrecht University
+- **2026** – Utrecht University School of Economics Research Institute
 
 ---
 
 ## Community Engagement 
 
 ### Migration and Refugees
-- **2023** – Participant, *United States Dept. of Education: Refugees & Migration Seminar*, Amman, Jordan  
-- **2022** – Intern, *Icelandic Human Rights Centre*, Reykjavik, Iceland  
-- **2022** – Volunteer, *Danish Refugee Council*, Copenhagen, Denmark  
+- **2023** – Participant, *United States Dept. of Education: Refugees & Migration Seminar*, Amman, Jordan  
+- **2022** – Intern, *Icelandic Human Rights Centre*, Reykjavik, Iceland  
+- **2022** – Volunteer, *Danish Refugee Council*, Copenhagen, Denmark  
 
 ### Homelessness and Youth Development
-- **2023–2024** – Intern, *Centers for Housing Opportunity*, Eastern Connecticut, USA  
-- **2021** – Intern, *Southeastern Connecticut Community Land Trust*, New London, CT, USA  
-- **2021** – Intern, *Elks Club Food Pantry*, New London, CT, USA  
+- **2023–2024** – Intern, *Center for Housing Equity and Opportunity*, Eastern Connecticut, USA  
+- **2021** – Intern, *Southeastern Connecticut Community Land Trust*, New London, CT, USA  
+- **2021** – Intern, *Elks Club Food Pantry*, New London, CT, USA  
 - **2020** – Intern, *New London Homeless Hospitality Center*, New London, CT, USA
 - **2017–2019** – Mentor, *Project LIFT*, Saratoga Springs, NY, USA
 
 ### Community Leadership Roles
+- **2025–2027** – PhD Representative, *Utrecht School of Economics*, Utrecht, Netherlands
 - **2023–2025** – Student Assistant, *Center for Global Challenges*, Utrecht, Netherlands
-- **2021–2023** – Fellow, *Holleran Center for Community Action*, Connecticut College, USA
 
 ### Academic Leadership Roles
 - **2022–2023** – Chair, *Economics Student Advisory Board*, Connecticut College, USA
 - **2021–2023** – Chair, *Human Development Student Advisory Board*, Connecticut College, USA
 - **2022–2023** – Office Assistant, *Human Development Department*, Connecticut College, USA
-- **2021** – Fellow, *PPIA Public Service Weekend*, Carnegie Mellon University, PA, USA  
+- **2021** – Fellow, *PPIA Public Service Weekend*, Carnegie Mellon University, PA, USA  
 
 <a href="#" class="back-to-top">↑ Back to Top</a>
