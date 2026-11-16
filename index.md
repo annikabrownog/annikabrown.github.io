@@ -132,7 +132,7 @@ hr {
 </div> 
 
 
-Hi! I'm **Annika**, a current first year Economics Ph.D. student at Utrecht University. 
+Hi! I'm **Annika**, a second year Economics Ph.D. student at Utrecht University. 
 
 You can download my CV [here.](assets/Annika_Brown_CV.pdf)
 
